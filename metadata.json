@@ -1,0 +1,6 @@
+{
+  "name": "Vokasta: Frontline Competency Simulator",
+  "description": "Multimodal AI simulator assessing frontline service and retail sales roleplays with real-time customer reactions, calibrated rubric evaluations, and portable sample credentials.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

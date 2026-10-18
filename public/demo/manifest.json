@@ -1,0 +1,171 @@
+{
+  "totalDuration": 215.84,
+  "format": "H.264 / AAC 1080p",
+  "theme": "Frontline Barista & Ritel UMKM Competency Simulator",
+  "chapters": [
+    {
+      "id": "chapter_1",
+      "title": "1. Ikhtisar VOKASTA",
+      "subtitle": "IKHTISAR PLATFORM",
+      "timeStart": 0,
+      "duration": 30.64,
+      "badge": "IKHTISAR PLATFORM",
+      "transcript": "Selamat datang di VOKASTA AI. Platform simulator kompetensi kerja interaktif bertenaga Multimodal AI, yang dirancang khusus untuk talenta vokasi dan frontline service di Indonesia. Platform ini mengintegrasikan tiga pilar utama: simulasi percakapan suara dua arah secara langsung, evaluasi rubrik objektif tanpa bias logat daerah, dan penerbitan Paspor Kompetensi digital berstandar W3C."
+    },
+    {
+      "id": "chapter_2",
+      "title": "2. Skenario & Customer Persona",
+      "subtitle": "LANGKAH 1: PILIH SKENARIO",
+      "timeStart": 30.64,
+      "duration": 32,
+      "badge": "LANGKAH 1: PILIH SKENARIO",
+      "transcript": "Siswa dapat memilih beragam skenario riil di dunia kerja. Pada demonstrasi ini, kita akan menguji skenario Frontline Barista Counter bersama Mbak Sarah, seorang pelanggan dengan sensitivitas laktosa. Mbak Sarah ingin memesan es kopi susu gula aren, namun wajib diganti oat milk ramah lambung dan meminta takaran manis lima puluh persen. Barista diuji untuk tanggap merespons, merekomendasikan bundling pastry, dan menyelesaikan kasir QRIS."
+    },
+    {
+      "id": "chapter_3",
+      "title": "3. Percakapan Suara Realtime",
+      "subtitle": "LANGKAH 2: SIMULASI AUDIO INTERAKTIF",
+      "timeStart": 62.64,
+      "duration": 94.56,
+      "badge": "LANGKAH 2: SIMULASI AUDIO INTERAKTIF",
+      "transcript": "Mari kita dengarkan langsung simulasi percakapan suara dua arah antara Mbak Sarah dan siswa barista di meja kasir. MBAK SARAH (PELANGGAN): \"Halo kak, mau tanya dong. Es Kopi Susu Gula Arennya bisa diganti oat milk nggak ya? Soalnya saya lactose intolerant. Terus gulanya bisa request less sweet 50% nggak?\" SISWA BARISTA (KANDIDAT): \"Halo kak, selamat datang di Kopi Nusantara! Tentu bisa banget kak, kami sediakan opsi Oat Milk creamy yang 100% plant-based dan ramah lambung. Untuk gulanya rekomendasi kami 50% less sweet. Mau ukuran regular atau large kak?\" MBAK SARAH (PELANGGAN): \"Wah mantap, pas banget! Ukuran regular aja ya kak, esnya normal. Sama ada rekomendasi pastry yang cocok nggak buat nemenin kopi susu oat milk ini?\" SISWA BARISTA (KANDIDAT): \"Siap kak! Rekomendasi terfavorit kami adalah Warm Almond Croissant yang renyah dan buttery. Sedang ada promo bundling hemat 10 ribu rupiah juga jika dipesan bersama kopi. Mau sekalian dihangatkan satu kak?\" MBAK SARAH (PELANGGAN): \"Boleh deh satu croissant-nya sekalian dihangatkan ya! Makasih banyak rekomendasinya kak.\" SISWA BARISTA (KANDIDAT): \"Baik kak, 1 Iced Oat Milk Coffee Less Sweet dan 1 Warm Almond Croissant. Totalnya 48 ribu rupiah, pembayaran bisa scan QRIS di sini. Terima kasih, silakan ditunggu ya!\" Interaksi percakapan verbal multi-turn tersebut langsung dianalisis secara objektif oleh VOKASTA Multimodal Engine."
+    },
+    {
+      "id": "chapter_4",
+      "title": "4. Evaluasi Video Multimodal",
+      "subtitle": "LANGKAH 3: EVALUASI RUBRIK AI",
+      "timeStart": 157.2,
+      "duration": 22.8,
+      "badge": "LANGKAH 3: EVALUASI RUBRIK AI",
+      "transcript": "Langkah ketiga: Evaluasi rubrik berlapis, mencakup standar universal hospitalitas dan kepatuhan SOP kedai kopi. Hasil evaluasi: Skor sembilan puluh lima koma lima dari seratus, kompeten pada parameter salam ramah, kustomisasi resep, cross-selling, dan SOP kasir."
+    },
+    {
+      "id": "chapter_5",
+      "title": "5. Dialect Fairness & AI Coach",
+      "subtitle": "LANGKAH 4: AUDIT KEADILAN LOGAT",
+      "timeStart": 180,
+      "duration": 17.96,
+      "badge": "LANGKAH 4: AUDIT KEADILAN LOGAT",
+      "transcript": "Langkah keempat: Audit Dialect Fairness memastikan penilaian tetap adil dan netral untuk seluruh logat daerah Nusantara. Dilengkapi AI Coach interaktif untuk melatih kembali poin keberatan pelanggan secara terarah dan terukur."
+    },
+    {
+      "id": "chapter_6",
+      "title": "6. Sovereign Credential (W3C)",
+      "subtitle": "LANGKAH 5: PASPOR KOMPETENSI RESMI",
+      "timeStart": 197.96,
+      "duration": 17.88,
+      "badge": "LANGKAH 5: PASPOR KOMPETENSI RESMI",
+      "transcript": "Langkah kelima: Siswa yang lulus menerima Sovereign Credential portabel berstandar W3C dengan QR code dan verifikasi kriptografi. Melatih talenta frontline Indonesia siap kerja, berdaya saing, dan terpercaya."
+    }
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 13.58,
+      "speaker": "NARRATOR",
+      "text": "Selamat datang di VOKASTA AI. Platform simulator kompetensi kerja interaktif bertenaga Multimodal AI, yang dirancang khusus untuk talenta vokasi dan frontline service di Indonesia."
+    },
+    {
+      "start": 13.58,
+      "end": 30.64,
+      "speaker": "NARRATOR",
+      "text": "Platform ini mengintegrasikan tiga pilar utama: simulasi percakapan suara dua arah secara langsung, evaluasi rubrik objektif tanpa bias logat daerah, dan penerbitan Paspor Kompetensi digital berstandar W3C."
+    },
+    {
+      "start": 30.64,
+      "end": 45.3,
+      "speaker": "NARRATOR",
+      "text": "Siswa dapat memilih beragam skenario riil di dunia kerja. Pada demonstrasi ini, kita akan menguji skenario Frontline Barista Counter bersama Mbak Sarah, seorang pelanggan dengan sensitivitas laktosa."
+    },
+    {
+      "start": 45.3,
+      "end": 62.64,
+      "speaker": "NARRATOR",
+      "text": "Mbak Sarah ingin memesan es kopi susu gula aren, namun wajib diganti oat milk ramah lambung dan meminta takaran manis lima puluh persen. Barista diuji untuk tanggap merespons, merekomendasikan bundling pastry, dan menyelesaikan kasir QRIS."
+    },
+    {
+      "start": 62.64,
+      "end": 71.34,
+      "speaker": "NARRATOR",
+      "text": "Mari kita dengarkan langsung simulasi percakapan suara dua arah antara Mbak Sarah dan siswa barista di meja kasir."
+    },
+    {
+      "start": 71.34,
+      "end": 85.24,
+      "speaker": "MBAK SARAH (PELANGGAN)",
+      "text": "Halo kak, mau tanya dong. Es Kopi Susu Gula Arennya bisa diganti oat milk nggak ya? Soalnya saya lactose intolerant. Terus gulanya bisa request less sweet 50% nggak?"
+    },
+    {
+      "start": 85.24,
+      "end": 103.34,
+      "speaker": "SISWA BARISTA (KANDIDAT)",
+      "text": "Halo kak, selamat datang di Kopi Nusantara! Tentu bisa banget kak, kami sediakan opsi Oat Milk creamy yang 100% plant-based dan ramah lambung. Untuk gulanya rekomendasi kami 50% less sweet. Mau ukuran regular atau large kak?"
+    },
+    {
+      "start": 103.34,
+      "end": 114.96,
+      "speaker": "MBAK SARAH (PELANGGAN)",
+      "text": "Wah mantap, pas banget! Ukuran regular aja ya kak, esnya normal. Sama ada rekomendasi pastry yang cocok nggak buat nemenin kopi susu oat milk ini?"
+    },
+    {
+      "start": 114.96,
+      "end": 128.1,
+      "speaker": "SISWA BARISTA (KANDIDAT)",
+      "text": "Siap kak! Rekomendasi terfavorit kami adalah Warm Almond Croissant yang renyah dan buttery. Sedang ada promo bundling hemat 10 ribu rupiah juga jika dipesan bersama kopi. Mau sekalian dihangatkan satu kak?"
+    },
+    {
+      "start": 128.1,
+      "end": 134.56,
+      "speaker": "MBAK SARAH (PELANGGAN)",
+      "text": "Boleh deh satu croissant-nya sekalian dihangatkan ya! Makasih banyak rekomendasinya kak."
+    },
+    {
+      "start": 134.56,
+      "end": 148.14,
+      "speaker": "SISWA BARISTA (KANDIDAT)",
+      "text": "Baik kak, 1 Iced Oat Milk Coffee Less Sweet dan 1 Warm Almond Croissant. Totalnya 48 ribu rupiah, pembayaran bisa scan QRIS di sini. Terima kasih, silakan ditunggu ya!"
+    },
+    {
+      "start": 148.14,
+      "end": 157.2,
+      "speaker": "NARRATOR",
+      "text": "Interaksi percakapan verbal multi-turn tersebut langsung dianalisis secara objektif oleh VOKASTA Multimodal Engine."
+    },
+    {
+      "start": 157.2,
+      "end": 167.78,
+      "speaker": "NARRATOR",
+      "text": "Langkah ketiga: Evaluasi rubrik berlapis, mencakup standar universal hospitalitas dan kepatuhan SOP kedai kopi."
+    },
+    {
+      "start": 167.78,
+      "end": 180,
+      "speaker": "NARRATOR",
+      "text": "Hasil evaluasi: Skor sembilan puluh lima koma lima dari seratus, kompeten pada parameter salam ramah, kustomisasi resep, cross-selling, dan SOP kasir."
+    },
+    {
+      "start": 180,
+      "end": 189.46,
+      "speaker": "NARRATOR",
+      "text": "Langkah keempat: Audit Dialect Fairness memastikan penilaian tetap adil dan netral untuk seluruh logat daerah Nusantara."
+    },
+    {
+      "start": 189.46,
+      "end": 197.96,
+      "speaker": "NARRATOR",
+      "text": "Dilengkapi AI Coach interaktif untuk melatih kembali poin keberatan pelanggan secara terarah dan terukur."
+    },
+    {
+      "start": 197.96,
+      "end": 208.94,
+      "speaker": "NARRATOR",
+      "text": "Langkah kelima: Siswa yang lulus menerima Sovereign Credential portabel berstandar W3C dengan QR code dan verifikasi kriptografi."
+    },
+    {
+      "start": 208.94,
+      "end": 215.84,
+      "speaker": "NARRATOR",
+      "text": "Melatih talenta frontline Indonesia siap kerja, berdaya saing, dan terpercaya."
+    }
+  ]
+}

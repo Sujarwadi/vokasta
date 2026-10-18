@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.*
+.dev.env.json
+!.env.example
+tmp_*
+*.wav
+*.m4a
